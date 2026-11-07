@@ -1,2 +1,2 @@
 # shafiq-phv-hub-beta
-SHAFIQ PHV Hub — development and testing of new driver tools.
+Beta deployment test — SHAFIQ PHV Hub v0.8
